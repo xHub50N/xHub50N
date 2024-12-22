@@ -45,7 +45,7 @@ I thrive on solving challenges, learning cutting-edge technologies, and building
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
 </a> 
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+<a href="https://www.terraform.io" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> 
 </a> 
 <a href="https://www.vagrantup.com" target="_blank" rel="noreferrer"> 
