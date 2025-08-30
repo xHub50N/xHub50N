@@ -16,7 +16,7 @@ I thrive on solving challenges, learning cutting-edge technologies, and building
 
 <ul>
 <li>📫 Email: <a href="mailto:hubert.bojda.work@gmail.com">hubert.bojda.work@gmail.com</a></li>
-<li>📄<a href="https://www.linkedin.com/in/hubert-bojda-56b010299/"> Linkedin</a></li>
+<li>📄<a href="https://www.linkedin.com/in/hubert-bojda/">Linkedin</a></li>
 </ul>
 
 <h3>⚙ Technologies and skills</h3>
