@@ -9,7 +9,7 @@
 
 🚀 I'm passionate about <b>DevOps</b> methodology and automation everything.
 
-🛡️ I'm taking care about <b>Cybersecurity</b> in my own <b>Homelab</b> and proffesional IT systems.
+🛡️ I'm taking care about <b>Cybersecurity</b> in my own <b>Homelab</b> and profesional IT systems.
 
 🧠 In my free time, I read books on computer science and psychology, and I also spent time at climbing wall and ride my bike. 
 
